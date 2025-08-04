@@ -92,7 +92,7 @@ const Home = () => {
                 <PurpleSpan className="hero-name">Nishan Bansode👋</PurpleSpan>
               </h1>
               <div className="lead mb-5 typing-animation">
-                <p>I'm a passionate DevOps enthusiast and aspiring Cloud Engineer with Hands-on experience in building, containerizing, and deploying full-stack applications using Docker, Jenkins, AWS, and Kubernetes. Passionate about automating workflows, managing scalable infrastructure, and delivering cloud-native solutions with reliability and speed.</p>
+                <p>I'm a certified AWS Solutions Architect and experienced DevOps Engineer with a strong background in building, containerizing, and deploying scalable full-stack applications using Docker, Jenkins, AWS, and Kubernetes. I have hands-on expertise in designing automated CI/CD pipelines, implementing blue-green deployment strategies, and managing resilient cloud-native infrastructure. My focus is on delivering secure, high-availability systems and streamlining software delivery through robust DevOps practices and multi-cloud environments.</p>
                 <p>Let's build something awesome together! 🚀</p>
               </div>
               <div>
